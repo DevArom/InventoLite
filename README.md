@@ -14,7 +14,7 @@ This is a simple inventory system web application purely built using HTML, CSS, 
 
 ## Demo
 
-A live demo of the application can be found [here](https://your-demo-link.com).
+A live demo of the application can be found (https://devarom.github.io/InventoLite/).
 
 ## Usage
 
