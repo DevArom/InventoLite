@@ -1,7 +1,5 @@
 # InventoLite
 
-# Simple Inventory System
-
 This is a simple inventory system web application that allows users to manage their inventory by adding, updating, and deleting products. The application is built using HTML, CSS, and JavaScript.
 
 This is a simple inventory system web application purely built using HTML, CSS, and JavaScript. It allows users to manage their inventory by adding, updating, and deleting products.
