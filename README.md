@@ -21,7 +21,7 @@ A live demo of the application can be found (https://devarom.github.io/InventoLi
 1. Open `index.html` in your web browser to access the user registration page.
 2. Register as a new user by providing a username and password.
 3. After successful registration, you will be redirected to the login page.
-4. Log in using your registered username and password to access the inventory system.
+4. As a Front-end project, new user data will not be stored in the database. You can register new users, but logging in with the same username and password is not supported. To log in, please use "user1" with password "pass1" or "user2" with password "pass2." 
 5. Add, update, or delete products as needed.
 
 ## Contributing
